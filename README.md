@@ -1,4 +1,4 @@
-Just a 19 years old developer.
+Just a 19-year-old developer.
 
 - 🔭 I’m currently working on my skills
 - 🌱 I’m currently learning React Js
