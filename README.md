@@ -1,3 +1,5 @@
+Just a 19 years old developer.
+
 - 🔭 I’m currently working on my skills
 - 🌱 I’m currently learning React Js
 - 👯 I’m looking to collaborate on Projects
