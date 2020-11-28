@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 👨 &nbsp; I'm just a 19-year-old learner trying to learn software development.
+- 👨 &nbsp; I'm just a 19-year-old learning software development.
 - 🤔 &nbsp; Exploring new technologies and working on my skills.
 - 🌱 &nbsp; I’m currently learning React Js
 - 👯 &nbsp; I’m looking to collaborate on Projects
@@ -11,11 +11,15 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
+<br />
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  
 - ⚙️ &nbsp;
+<br />
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
  <br />
