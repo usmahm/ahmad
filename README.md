@@ -4,9 +4,8 @@
 
 - 👨 &nbsp; I'm just a young guy learning software development.
 - 👨🏻‍💻 &nbsp; Exploring new technologies and working on my skills.
-- 🌱 &nbsp; I’m currently learning Swift and Python
+- 🌱 &nbsp; I’m currently learning Python and MAchine Learning.
 - 👯‍♂️ &nbsp; I’m looking to collaborate on Projects
-- 🎓 &nbsp; Studying Electrical and Electronics Engineering at Obafemi Awolowo University, Nigeria.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
