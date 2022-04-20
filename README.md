@@ -4,7 +4,7 @@
 
 - 👨 &nbsp; I'm just a young guy learning software development.
 - 👨🏻‍💻 &nbsp; Exploring new technologies and working on my skills.
-- 🌱 &nbsp; I’m currently learning Python and Machine Learning.
+- 🌱 &nbsp; I’m currently learning Machine Learning and Deep Learning.
 - 👯‍♂️ &nbsp; I’m looking to collaborate on Projects
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
