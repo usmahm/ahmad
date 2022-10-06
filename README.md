@@ -17,6 +17,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=1572B6)
+  ![Mobx](https://img.shields.io/badge/-Mobx-333333?style=flat&logo=Mobx&logoColor=1572B6)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
