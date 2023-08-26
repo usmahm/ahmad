@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 👨 &nbsp; I'm just a young guy learning software engineering.
+- 👨 &nbsp; I'm just a young guy learning ml, software engineering, and embedded systems.
 - 👨🏻‍💻 &nbsp; Exploring new technologies and working on my skills.
 - 🌱 &nbsp; I’m currently learning Machine Learning and Deep Learning.
 - 👯‍♂️ &nbsp; I’m looking to collaborate on Projects
