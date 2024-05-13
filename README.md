@@ -2,14 +2,15 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 👨 &nbsp; I'm just a young guy learning ml, software engineering, and embedded systems.
+- 👨 &nbsp; I'm just a young guy learning software engineering, ml, and robotics.
 - 👨🏻‍💻 &nbsp; Exploring new technologies and working on my skills.
-- 🌱 &nbsp; I’m currently learning Machine Learning and Deep Learning.
+- 🌱 &nbsp; I’m currently exploring Deep Learning and Robotics and building projects as well.
 - 👯‍♂️ &nbsp; I’m looking to collaborate on Projects
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
+  ![C++](https://img.shields.io/badge/-Cpp-333333?style=flat&logo=cpp)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript&logoColor=1572B6)
