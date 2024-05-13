@@ -10,7 +10,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
-  ![C++](https://img.shields.io/badge/-Cpp-333333?style=flat&logo=cpp)
+  ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript&logoColor=1572B6)
